@@ -1,5 +1,5 @@
-var periodicallySendData = false; 
-var useSendBeacon = true; 
+var periodicallySendData = true; 
+var useSendBeacon = false; 
 var useExternalServerScript = true;
 var externalServerScriptUrl = "http://147.175.149.104/logger/record_default.php";
 
